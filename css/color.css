@@ -1,0 +1,21 @@
+.white{
+  color: white;
+}
+.black{
+  color: black;
+}
+.gray{
+  color: #787878;
+}
+.backwhite{
+  background-color: white;
+}
+.backblack{
+  background-color: black;
+}
+.backf7{
+  background-color: #F7F7F7;
+}
+.backtrans{
+  background-color: transparent;
+}

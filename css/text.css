@@ -1,0 +1,188 @@
+.heishi100{
+  height: 100vh;
+}
+.heishi90{
+  height: 90vh;
+}
+.heishi80{
+  height: 80vh;
+}
+.heifull{
+  height: 100%;
+}
+.heifull90{
+  height: 90%;
+}
+.heifull80{
+  height: 80%;
+}
+.heifull70{
+  height: 70%;
+}
+.height0{
+  height: 0rpx;
+}
+.height5{
+  height: 10rpx;
+}
+.height10{
+  height: 20rpx;
+}
+.height15{
+  height: 30rpx;
+}
+.height20{
+  height: 40rpx;
+}
+.height25{
+  height: 50rpx;
+}
+.height30{
+  height: 60rpx;
+}
+.height40{
+  height: 80rpx;
+}
+.height50{
+  height: 100rpx;
+}
+.height60{
+  height: 120rpx;
+}
+.height70{
+  height: 140rpx;
+}
+.height80{
+  height: 160rpx;
+}
+.height90{
+  height: 180rpx;
+}
+.height100{
+  height: 200rpx;
+}
+.height120{
+  height: 240rpx;
+}
+.height150{
+  height: 300rpx;
+}
+.height200{
+  height: 400rpx;
+}
+.widshi100{
+  width: 100vw;
+}
+.widshi90{
+  width: 90vw;
+}
+.widfull{
+  width: 100%;
+}
+.widfull90{
+  width: 90%;
+}
+.widfull80{
+  width: 80%;
+}
+.widfull70{
+  width: 70%;
+}
+.widfull60{
+  width: 60%;
+}
+.width0{
+  width: 0rpx;
+}
+.width5{
+  width: 10rpx;
+}
+.width10{
+  width: 20rpx;
+}
+.width15{
+  width: 30rpx;
+}
+.width20{
+  width: 40rpx;
+}
+.width25{
+  width: 50rpx;
+}
+.width30{
+  width: 60rpx;
+}
+.width35{
+  width: 70rpx;
+}
+.width40{
+  width: 80rpx;
+}
+.width45{
+  width: 90rpx;
+}
+.width50{
+  width: 100rpx;
+}
+.width60{
+  width: 120rpx;
+}
+.width70{
+  width: 140rpx;
+}
+.width80{
+  width: 160rpx;
+}
+.width90{
+  width: 180rpx;
+}
+.width100{
+  width: 200rpx;
+}
+.width120{
+  width: 240rpx;
+}
+.width140{
+  width: 280rpx;
+}
+.width150{
+  width: 300rpx;
+}
+.width200{
+  width: 400rpx;
+}
+.line-height15{
+  line-height: 30rpx;
+}
+.line-height20{
+  line-height: 40rpx;
+}
+.line-height30{
+  line-height: 60rpx;
+}
+.line-height50{
+  line-height: 100rpx;
+}
+.text-center{
+  text-align: center;
+}
+.opcity-2{
+  opacity: 0.2;
+}
+.opcity-4{
+  opacity: 0.4;
+}
+.opcity-6{
+  opacity: 0.6;
+}
+.opcity-8{
+  opacity: 0.8;
+}
+.opcity10{
+  opacity: 1;
+}
+.ellipsis {
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
